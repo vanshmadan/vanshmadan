@@ -21,14 +21,14 @@ Here are some ideas to get you started:
 
 You have finally discovered my Github profile. 👋 <br>
 Please feel free to clone projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything **[here](https://github.com/manuarora700/manuarora700/issues/new)**<br>
+Ask me anything **[here](https://github.com/vanshmadan/vanshmadan/issues/new)**<br>
 or **[email](mailto:vanshkumarmadan@gmail.com)** me
 
 Happy Coding! 😊
 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshmadan&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=15151" alt="Vansh Madan's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshmadan&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Vansh Madan's Github Stats">
 
 [![HitCount](http://hits.dwyl.com/vanshmadan/{project}.svg)](http://hits.dwyl.com/vanshmadan/{project})
 
