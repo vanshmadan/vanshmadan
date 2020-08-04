@@ -42,7 +42,6 @@ Happy Coding! 😊
 
 <a href="https://www.linkedin.com/in/vansh-madan-03b297137/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href=https://www.facebook.com/vansh.madan.127 target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="http://www.manuarora.me" target="_blank">
 <img src="https://img.shields.io/static/v1?label=Website&message=manuarora.me&color=%230076D6&style=flat-square&logo=internet-explorer&logoColor=%230076D6" alt="website"/>
 </a>
 <img src="https://img.shields.io/badge/Projects-72-yellow?&style=flat-square" alt="Projects"/>
