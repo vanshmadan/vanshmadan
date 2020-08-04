@@ -46,12 +46,12 @@ Happy Coding! 😊
 </div>
 Just for the culture:
 
-- 🔭 I’m currently working on: Fullstack development (Node and React) and DS Algo
-- 🌱 I’m currently learning: Complex algorithms
+- 🔭 I’m currently working on: DevOps and related technologies
+- 🌱 I’m currently learning: Chatbots
 - 👯 I’m looking to collaborate on: Gatsby Projects
-- 🤔 I’m looking for help with: Security fundamentals and practices
-- 💬 Ask me about: Code, food and life
+- 🤔 I’m looking for help with: Security fundamentals and DevOps
+- 💬 Ask me about: Anything, I am omniscient ;)
 - 📫 How to reach me: vanshkumarmadan@gmail.com
 - ⚡ Fun fact: to catch(err) { console.log("is Human") }
 
-Special thanks to https://github.com/manuarora700 for letting me know about this cool feature.
+Special thanks to [Manu Arora](https://github.com/manuarora700) for letting me know about this cool feature.
