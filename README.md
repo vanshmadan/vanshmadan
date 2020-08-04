@@ -1,16 +1,24 @@
-### Hi there 👋
+𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! 
+You have finally discovered my Github profile. 👋
+Please feel free to clone projects, raise issues and submit PRs if you think something could be better.
+Ask me anything here
+or email me
 
-<!--
-**vanshmadan/vanshmadan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Happy Coding! 😊
 
-Here are some ideas to get you started:
+Vansh Madan's Github Stats
+HitCount
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Follow me around the web:
+
+LinkedIn Instagram Facebook website Projects
+
+Just for the culture:
+🔭 I’m currently working on: Fullstack development (Node and React) and DS Algo
+🌱 I’m currently learning: Complex algorithms
+👯 I’m looking to collaborate on: Gatsby Projects
+🤔 I’m looking for help with: Security fundamentals and practices
+💬 Ask me about: Code, food and life
+📫 How to reach me: vanshkumarmadan@mail.com
+⚡ Fun fact: to catch(err) { console.log("is Human") }
+Special thanks to ABSphreak for letting me know about this cool feature
