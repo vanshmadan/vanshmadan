@@ -22,25 +22,24 @@ Here are some ideas to get you started:
 You have finally discovered my Github profile. 👋 <br>
 Please feel free to clone projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything **[here](https://github.com/manuarora700/manuarora700/issues/new)**<br>
-or **[email](mailto:manuarorawork@gmail.com)** me
+or **[email](mailto:vanshkumarmadan@gmail.com)** me
 
 Happy Coding! 😊
 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=manuarora700&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Manu Arora's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshmadan&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=15151" alt="Vansh Madan's Github Stats">
 
-[![HitCount](http://hits.dwyl.com/manuarora700/manuarora700.svg)](http://hits.dwyl.com/manuarora700/manuarora700)
+[![HitCount](http://hits.dwyl.com/vanshmadan/{project}.svg)](http://hits.dwyl.com/vanshmadan/{project})
+
 
 <i>Follow me around the web:</i><br>
 
-<a href="https://www.linkedin.com/in/manuarora28" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/mannupaaji" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/Manuarora7000" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://www.linkedin.com/in/vansh-madan-03b297137/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href=https://www.facebook.com/vansh.madan.127 target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="http://www.manuarora.me" target="_blank">
 <img src="https://img.shields.io/static/v1?label=Website&message=manuarora.me&color=%230076D6&style=flat-square&logo=internet-explorer&logoColor=%230076D6" alt="website"/>
 </a>
-<a href="http://www.manupaaji.codes" target="_blank">
 <img src="https://img.shields.io/badge/Projects-72-yellow?&style=flat-square" alt="Projects"/>
 </a>
 
@@ -52,7 +51,7 @@ Just for the culture:
 - 👯 I’m looking to collaborate on: Gatsby Projects
 - 🤔 I’m looking for help with: Security fundamentals and practices
 - 💬 Ask me about: Code, food and life
-- 📫 How to reach me: manuarorawork@gmail.com
+- 📫 How to reach me: vanshkumarmadan@gmail.com
 - ⚡ Fun fact: to catch(err) { console.log("is Human") }
 
-Special thanks to [ABSphreak](https://www.github.com/absphreak) for letting me know about this cool feature.
+Special thanks to https://github.com/manuarora700 for letting me know about this cool feature.
